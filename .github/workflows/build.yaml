@@ -31,4 +31,4 @@ jobs:
           file: ./ubuntu/standard/4.0/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: leandrorpadua/codebuild-standard:4.0
+          tags: leandropadua/codebuild-standard:4.0
